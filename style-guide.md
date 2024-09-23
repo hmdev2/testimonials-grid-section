@@ -1,42 +1,43 @@
-# Front-end Style Guide
+# Guia de estilo front-end
 
-## Layout
+## layout
 
-The designs were created to the following widths:
+Os projetos foram criados para as seguintes larguras:
 
 - Mobile: 375px
 - Desktop: 1440px
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+> 💡 Estes são apenas os tamanhos de design.Verifique se o conteúdo é responsivo e atende aos requisitos do WCAG testando toda a gama de tamanhos de tela de 320px a telas grandes.
 
-## Colors
+## cores
 
-### Primary
+### Primário
 
-Moderate violet: hsl(263, 55%, 52%)
-Very dark grayish blue: hsl(217, 19%, 35%)
-Very dark blackish blue: hsl(219, 29%, 14%)
-White: hsl(0, 0%, 100%)
+- violetModerado: HSL (263, 55%, 52%)
+- azulAcinzentadoMuitoEscuro: HSL (217, 19%, 35%)
+- azulEscuroMuitoEscuro: HSL (219, 29%, 14%)
+- branco: HSL (0, 0%, 100%)
 
-### Neutral
+### Neutro
 
-Light gray: hsl(0, 0%, 81%)
-Light grayish blue: hsl(210, 46%, 95%)
+- cinzaClaro: hsl (0, 0%, 81%)
+- azulAcinzentadoClaro: HSL (210, 46%, 95%)
 
-Note for text colors:
+Nota para cores de texto:
 
-1. "Verified Graduate" has the same color as the person's name with 50% opacity
-2. Review paragraphs inside the quotations have the same color as well, but are at 70% opacity
+1. "Graduado verificado" tem a mesma cor que o nome da pessoa com 50% de opacidade
+2. Os parágrafos de revisão dentro das citações também têm a mesma cor, mas estão com 70% de opacidade
 
-## Typography
+## tipografia
 
-### Body Copy
+Cópia do corpo
 
-- Font size: 13px
+- Tamanho da fonte: 13px
 
 ### Font
 
-- Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
+- Family: [Barlow Semi Condensed] (https://fonts.google.com/specimen/barlow+semi+condensed)
+
 - Weights: 500, 600
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+> 💎 [Upgrade para pro] (https://www.frontendmentor.io/pro?ref=style-guide) Para obter acesso ao arquivo de design para ver todos os detalhes do design e obter experiência prática usando um fluxo de trabalho profissional com ferramentas como o FIGMA.
